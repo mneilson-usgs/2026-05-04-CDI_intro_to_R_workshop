@@ -17,8 +17,6 @@ instructor: ["Matthew Neilson", "Kyle Moran", "Saira Haider"] # boxed, comma-sep
 helper: ["Chris Merkes", "Bryan McCloskey", "Jessica Diallo"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["mneilson@usgs.gov", "gdonovan@usgs.gov", "lcolasuonno@usgs.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  https://doimspp.sharepoint.com/:w:/r/sites/CommunityforDataIntegration/_layouts/15/Doc.aspx?sourcedoc=%7BFB881709-B994-4BD8-9D0E-AE95CF7CF92A%7D&file=202605_Software_Carpentry_Notes.docx&action=default&mobileredirect=true # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
-what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
