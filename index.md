@@ -14,7 +14,7 @@ humantime: "1:00 pm - 5:00 pm EST (7:00 pm - 11:00 pm UTC)"    # human-readable 
 startdate: 2026-05-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2026-05-28        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Matthew Neilson", "Kyle Moran", "Saira Haider"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Chris Merkes", "Bryan McCloskey", "Jessica Diallo"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Chris Merkes", "Bryan McCloskey", "Jessica Diallo", "Ian Pfingsten"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["mneilson@usgs.gov", "gdonovan@usgs.gov", "lcolasuonno@usgs.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  https://doimspp.sharepoint.com/:w:/r/sites/CommunityforDataIntegration/_layouts/15/Doc.aspx?sourcedoc=%7BFB881709-B994-4BD8-9D0E-AE95CF7CF92A%7D&file=202605_Software_Carpentry_Notes.docx&action=default&mobileredirect=true # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 ---
